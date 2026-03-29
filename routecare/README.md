@@ -41,10 +41,8 @@ Open: http://localhost:5000
 
 | Role       | User ID | Password  |
 |------------|---------|-----------|
-| Ambulance  | AMB001  | 1234567   |
-| Ambulance  | AMB002  | 2345678   |
-| Hospital   | HSP001  | 1234567   |
-| Hospital   | HSP002  | 2345678   |
+| Ambulance  | AMB006  | 1234      |
+| Hospital   | HSP006  | 1234      |
 
 ---
 
