@@ -1,10 +1,10 @@
-# 🚑 RouteCare — AI Emergency Response System
+# RouteCare — AI Emergency Response System
 
 An AI-powered emergency response system that monitors patient vitals in real-time and intelligently reroutes ambulances to the best available hospital.
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 pip install flask
@@ -14,18 +14,18 @@ Open: http://localhost:5000
 
 ---
 
-## 🔑 Demo Login Credentials
+##  Demo Login Credentials
 
 | Role       | User ID | Password  |
 |------------|---------|-----------|
-| Ambulance  | AMB001  | pass123   |
-| Ambulance  | AMB002  | pass456   |
-| Hospital   | HSP001  | hosp123   |
-| Hospital   | HSP002  | hosp456   |
+| Ambulance  | AMB001  | 1234567   |
+| Ambulance  | AMB002  | 2345678   |
+| Hospital   | HSP001  | 1234567   |
+| Hospital   | HSP002  | 2345678   |
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 routecare/
@@ -47,7 +47,7 @@ routecare/
 
 ---
 
-## 🧠 AI Logic (`ai/ai_logic.py`)
+##  AI Logic (`ai/ai_logic.py`)
 
 **Function:** `get_ai_decision(vitals)`
 
@@ -72,7 +72,7 @@ routecare/
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 - **Live Vitals Monitor** — HR, BP, SpO2, Temperature with auto-refresh (15s)
 - **AI Stability Scoring** — 0–100 score with visual ring + clinical explanation
